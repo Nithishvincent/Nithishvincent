@@ -1,60 +1,81 @@
-# 👋 Hey there, I'm Nithish V!
+<h1 align="center">Hi 👋, I'm Nithish V</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | AI Enthusiast | Cloud Explorer</h3>
 
-🚀 A passionate Computer Science and Engineering student from Coimbatore, India, with a knack for solving problems and building efficient digital solutions.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🌟 About Me
 
-- 🎓 Currently pursuing B.E. in Computer Science at **Jansons Institute of Technology** (GPA: 8.14)
-- 🌱 Always learning — currently diving deeper into **AI, Full Stack Web Development**, and **Cloud Computing**
-- 🤖 Interned at **ELGI Equipments Pvt Ltd**, where I worked with Power Apps and Selenium Testing in an Agile environment
-- 🔬 Experienced in building smart applications like:
-  - 📱 **Restaurant Management App** – A full stack system to streamline restaurant operations
-  - 🛰️ **Orthophoto Detection AI** – A computer vision model for analyzing drone-based aerial imagery
-- ✨ Enthusiastic participant in hackathons like:
-  - 💡 *Intel One API Hackathon* – Built ML models for price prediction and recommendation systems
-  - 🧠 *Smart India Hackathon* – Created a drone-based geospatial AI model under the **SVAMITVA scheme**
+- 🎓 **B.E. in Computer Science** @ Jansons Institute of Technology (2022 - Present)
+- 🔍 Passionate about **Web Development, Machine Learning, and Cloud Computing**
+- 💡 Intern @ **ELGI Equipments Pvt Ltd** – worked with Power Apps and Selenium in Agile environment
+- 🛰️ Built **AI Models** for Orthophoto Detection using Drone Imagery under **SVAMITVA Scheme**
+- 💻 Participated in national-level hackathons like **Smart India Hackathon** & **Intel OneAPI**
+- 📌 Always eager to explore new tech, solve real-world problems, and collaborate on exciting projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-`Python` | `Java` | `C` | `HTML` | `CSS` | `JavaScript` | `Node.js`
+### 💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### Frameworks & Libraries
-`Flask` | `Streamlit` | `TensorFlow` | `PyTorch` | `OpenCV` | `Scikit-Learn` | `Pandas` | `NumPy`
+### 🧠 AI / ML / Tools
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
 
-### Database
-`MySQL` | `MongoDB`
-
-### Tools & Platforms
-`Git` | `GitHub` | `Vercel` | `Netlify` | `Replit` | `VS Code`
-
-### Cloud
-`AWS` | `Google Cloud` | `Azure`
-
----
-
-## 💡 Soft Skills
-
-- 🧠 Critical Thinking & Problem Solving
-- 🤝 Team Collaboration & Communication
-- 🔍 Analytical Mindset
-
----
-
-## 📫 Let's Connect
-
-- 📧 [nithishvincent55@gmail.com](mailto:nithishvincent55@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nithish-v-506426268)
-- 💻 [GitHub](https://github.com/Nithishvincent)
-- ✍️ [Medium](http://medium.com/@nithishvincent55)
+### 🧰 Tools & Cloud
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
 
 ---
 
-Thanks for stopping by! 🚀 Feel free to check out my repositories and projects. Let's connect and build something amazing! 🌟
+## 🚀 My Projects
+
+- 🍽️ **Restaurant Management App** – Web-based system with order, menu, and reservation features (HTML, CSS, JS, PHP)
+- 🌍 **Drone-based Orthophoto Detection** – AI model for feature extraction and land classification
+- 🎯 **Mobile Price Classifier & Movie Recommendation System** – Built during Intel OneAPI Hackathon
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nithishvincent&show_icons=true&theme=tokyonight" alt="Nithish's GitHub stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishvincent&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:nithishvincent55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nithish-v-506426268/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Nithishvincent"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="http://medium.com/@nithishvincent55"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
+
 
 <!---
 Nithishvincent/Nithishvincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,9 +11,6 @@
 
 - 🎓 **B.E. in Computer Science** @ Jansons Institute of Technology (2022 - Present)
 - 🔍 Passionate about **Web Development, Machine Learning, and Cloud Computing**
-- 💡 Intern @ **ELGI Equipments Pvt Ltd** – worked with Power Apps and Selenium in Agile environment
-- 🛰️ Built **AI Models** for Orthophoto Detection using Drone Imagery under **SVAMITVA Scheme**
-- 💻 Participated in national-level hackathons like **Smart India Hackathon** & **Intel OneAPI**
 - 📌 Always eager to explore new tech, solve real-world problems, and collaborate on exciting projects
 
 ---

@@ -43,26 +43,21 @@
 
 ---
 
-## 🚀 Projects
-
-- 🍽️ **Restaurant Management App**  
-  Web-based system for order management, menu customization, and reservations using HTML, CSS, JavaScript, and PHP.
-
-- 🌍 **Drone-based Orthophoto Detection**  
-  AI model for feature extraction and land-use classification from aerial imagery.
-
-- 🎯 **Mobile Price Classification & Movie Recommendation System**  
-  Machine learning models developed during the Intel OneAPI Hackathon.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nithishvincent&show_icons=true&theme=tokyonight" alt="Nithish's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishvincent&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Nithishvincent&show_icons=true&theme=dark&cache_seconds=1800" 
+    alt="GitHub Stats" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishvincent&layout=compact&theme=dark&cache_seconds=1800" 
+    alt="Top Languages" 
+    height="160"
+  />
 </p>
+
 
 ---
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hello There! Myself NITHISH </h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | AI Enthusiast | Cloud Explorer</h3>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
@@ -10,6 +10,7 @@
 ## 🌟 About Me
 
 - 🎓 **B.E. in Computer Science** @ Jansons Institute of Technology (2022 - Present)
+- Currently working as an intern as a Fullstack developer.
 - 🔍 Passionate about **Web Development, Machine Learning, and Cloud Computing**
 - 📌 Always eager to explore new tech, solve real-world problems, and collaborate on exciting projects
 
@@ -70,11 +71,3 @@
 </p>
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😄
-
-
-<!---
-Nithishvincent/Nithishvincent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

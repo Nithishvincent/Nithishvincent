@@ -43,20 +43,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Contribution Streak
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Nithishvincent&show_icons=true&theme=dark&cache_seconds=1800" 
-    alt="GitHub Stats" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishvincent&layout=compact&theme=dark&cache_seconds=1800" 
-    alt="Top Languages" 
-    height="160"
+    src="https://streak-stats.demolab.com?user=Nithishvincent&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
+
 
 
 ---

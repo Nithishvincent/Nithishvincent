@@ -1,5 +1,5 @@
-<h1 align="center">Hello There! Myself NITHISH </h1>
-<h3 align="center">🚀 Full Stack Developer | AI Enthusiast </h3>
+<h1 align="center">Hello There! I'm Nithish 👋</h1>
+<h3 align="center">🚀 Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
@@ -9,10 +9,10 @@
 
 ## 🌟 About Me
 
-- 🎓 **B.E. in Computer Science** @ Jansons Institute of Technology (2022 - Present)
-- Currently working as an intern as a Fullstack developer.
+- 🎓 **B.E. in Computer Science and Engineering** @ Jansons Institute of Technology (2022 – Present)
+- 💼 Currently working as a **Full Stack Developer Intern**
 - 🔍 Passionate about **Web Development, Machine Learning, and Cloud Computing**
-- 📌 Always eager to explore new tech, solve real-world problems, and collaborate on exciting projects
+- 📌 Always eager to explore new technologies, solve real-world problems, and collaborate on impactful projects
 
 ---
 
@@ -38,16 +38,21 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure)
 
 ---
 
-## 🚀 My Projects
+## 🚀 Projects
 
-- 🍽️ **Restaurant Management App** – Web-based system with order, menu, and reservation features (HTML, CSS, JS, PHP)
-- 🌍 **Drone-based Orthophoto Detection** – AI model for feature extraction and land classification
-- 🎯 **Mobile Price Classifier & Movie Recommendation System** – Built during Intel OneAPI Hackathon
+- 🍽️ **Restaurant Management App**  
+  Web-based system for order management, menu customization, and reservations using HTML, CSS, JavaScript, and PHP.
+
+- 🌍 **Drone-based Orthophoto Detection**  
+  AI model for feature extraction and land-use classification from aerial imagery.
+
+- 🎯 **Mobile Price Classification & Movie Recommendation System**  
+  Machine learning models developed during the Intel OneAPI Hackathon.
 
 ---
 
@@ -55,7 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nithishvincent&show_icons=true&theme=tokyonight" alt="Nithish's GitHub stats"/>
-  <br>
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithishvincent&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
@@ -64,10 +69,18 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:nithishvincent55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nithish-v-506426268/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Nithishvincent"><img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="http://medium.com/@nithishvincent55"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:nithishvincent55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nithish-v-506426268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Nithishvincent">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="http://medium.com/@nithishvincent55">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 ---
